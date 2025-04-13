@@ -56,12 +56,6 @@ Here are the 15 tables used in this database:
 
 ---
 
-## 🔐 Access Control (Optional Step)
-
-In a real-world implementation, you would set up **user roles** (e.g., Admin, Staff, Viewer) with appropriate permissions to manage security and access control.
-
----
-
 ## 🚀 How to Use
 
 1. Open a MySQL environment like MySQL Workbench or phpMyAdmin.
